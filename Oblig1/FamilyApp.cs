@@ -8,5 +8,6 @@ namespace Oblig1
 {
     public class FamilyApp
     {
+        //Handle Command
     }
 }
